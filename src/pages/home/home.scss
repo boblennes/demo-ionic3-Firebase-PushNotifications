@@ -1,3 +1,22 @@
 page-home {
+    .color-body{
+        background-color: #e3f0ff;
+    }
+    h1, h3, p{
+        text-align: center;
+    }
 
+    .logo{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .logo-firebase{
+        padding: 15px;
+    }
+
+    .autor{
+        color: #3f3e41;
+        opacity: 0.5;
+    }
 }
